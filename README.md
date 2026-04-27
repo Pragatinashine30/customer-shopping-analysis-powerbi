@@ -1,8 +1,8 @@
-### 📊 Customer Shopping Data Analysis (Power BI)
+## 📊 Customer Shopping Data Analysis (Power BI)
 
 ### 🔍 Project Overview
 
-This project analyzes customer shopping behavior using retail transaction data from multiple shopping malls (2021–2023). The goal is to extract meaningful insights related to customer demographics, revenue trends, product categories, and payment methods using Power BI.
+This project analyzes customer shopping behavior using retail transaction data from multiple shopping malls (2021–2023). The objective is to extract actionable insights related to customer demographics, revenue patterns, product categories, and payment methods using Power BI.
 
 ---
 
@@ -12,7 +12,7 @@ The dataset includes:
 
 * Customer demographics (Age, Gender)
 * Product category and quantity
-* Price and total transactions
+* Price and transaction details
 * Payment methods (Cash, Credit Card, Debit Card)
 * Shopping mall locations and invoice dates
 
@@ -31,8 +31,12 @@ The dataset includes:
 ### 📊 Dashboard Features
 
 * Interactive filters (Age, Gender, Category, Payment Method)
-* KPI cards (Total Revenue, Total Orders, Quantity Sold)
-* Visuals:
+* KPI cards:
+
+  * Total Revenue
+  * Total Orders
+  * Quantity Sold
+* Visualizations:
 
   * Revenue by Gender and Age Group
   * Category-wise sales distribution
@@ -43,9 +47,9 @@ The dataset includes:
 
 ### 💡 Key Insights
 
-* Certain gender groups contribute higher revenue
-* Middle-age customers drive the majority of sales
-* Few product categories dominate total purchases
+* Certain gender groups contribute higher revenue despite similar purchase volume
+* Middle-age customers drive the majority of total sales
+* A few product categories dominate overall purchases
 * Credit cards are the most preferred payment method
 
 ---
@@ -53,13 +57,20 @@ The dataset includes:
 ### 🛠️ Tools Used
 
 * Power BI
-* Excel (for data handling)
+* Excel (Data handling & preprocessing)
 
 ---
 
 ### 📂 Files
 
-* `Customer_Data_Analysis.pbix` – Power BI dashboard file
+* `dashboard/Customer_Data_Analysis.pbix` – Power BI dashboard file
+* `screenshots/customer_dashboard.png` – Dashboard preview
+
+---
+
+### 📸 Project Preview
+
+![Dashboard](screenshots/customer_dashboard.png)
 
 ---
 
