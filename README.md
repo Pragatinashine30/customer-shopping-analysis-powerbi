@@ -65,5 +65,5 @@ The dataset includes:
 
 ### 👨‍💻 Author
 
-Guneet Kapoor
-Aspiring Data Analyst | Power BI | SQL
+Pragati Nashine
+Data Analyst | Power BI | SQL
