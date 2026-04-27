@@ -1,4 +1,4 @@
-## 📊 Customer Shopping Data Analysis (Power BI)
+## 📊 Customer Shopping Data Analysis 
 
 ### 🔍 Project Overview
 
@@ -54,16 +54,22 @@ The dataset includes:
 
 ---
 
-### 🛠️ Tools Used
+### 🛠️ Tools & Skills Used
 
-* Power BI
-* Excel (Data handling & preprocessing)
+* Power BI (Dashboarding & Data Visualization)
+* SQL (Data Extraction & Querying)
+* Excel (Data Cleaning & Preprocessing)
+* DAX (Data Modeling & Calculations)
+* Data Analysis
+* Exploratory Data Analysis (EDA)
+* Data Cleaning
+* Data Visualization
 
 ---
 
 ### 📂 Files
 
-* `dashboard/Customer_Data_Analysis.pbix` – Power BI dashboard file
+* `dashboard/Customer_Shopping_Analysis.pbix` – Power BI dashboard
 * `screenshots/customer_dashboard.png` – Dashboard preview
 
 ---
@@ -71,6 +77,15 @@ The dataset includes:
 ### 📸 Project Preview
 
 ![Dashboard](screenshots/customer_dashboard.png)
+
+---
+
+### 📥 Download Dashboard
+
+> ⚠️ GitHub cannot preview `.pbix` files.
+> Please download the file and open it using **Power BI Desktop**.
+
+👉 [Download Dashboard](dashboard/Customer_Shopping_Analysis.pbix)
 
 ---
 
